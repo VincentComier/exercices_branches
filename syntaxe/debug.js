@@ -15,6 +15,7 @@ console.log("Le prix total après reduction est de : ", tot2)
 
 //Nous appliquons 20% de reduction
 let tot2 = tot - tot*0.2 */
+/*
 
 let a1 = 10
 let a2 = 20
@@ -24,4 +25,13 @@ let a3 = 50
 tot = tota + a3
 let tot2 = tot - tot*0.2
 console.log("le prix total avant reduction est de : ",tot)
-console.log("le prix total apres reduction est de : ",tot2)
+console.log("le prix total apres reduction est de : ",tot2) */
+/*
+
+let student = {
+		name : "Ada",
+		age : "999",
+		learning : "coding"
+}
+    console.log(age)
+*/
